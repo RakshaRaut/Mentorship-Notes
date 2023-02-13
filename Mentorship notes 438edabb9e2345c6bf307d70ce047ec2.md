@@ -1,0 +1,7 @@
+# Mentorship notes
+
+[Linux fundamentals](Mentorship%20notes%20438edabb9e2345c6bf307d70ce047ec2/Linux%20fundamentals%2060846b9d0af944c8979180e81b15faea.md)
+
+[HTML Notes](Mentorship%20notes%20438edabb9e2345c6bf307d70ce047ec2/HTML%20Notes%20c0fcea92b67d427081eb866e54a5bc1c.md)
+
+[Networking fundamentals](Mentorship%20notes%20438edabb9e2345c6bf307d70ce047ec2/Networking%20fundamentals%20e67733da05764bf7af53d70162384b20.md)
